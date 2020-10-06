@@ -111,7 +111,7 @@ jalan("\033[1;93m Welcome to Kashi Gangster")
 jalan("\033[1;96m•◈•──────────•◈•\033[1;96mKashiGangster\033[1;96m•◈•──────────•◈•")
 
 CorrectUsername = wishva
-CorrectPassword = MASTER
+CorrectPassword = wishva
 
 loop = 'true'
 while (loop == 'true'):
